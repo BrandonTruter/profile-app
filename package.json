@@ -14,7 +14,7 @@
     "jquery-ui": "1.13.2",
     "jquery-ujs": "1.2.3",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.4"
   },
   "scripts": {
     "build": "node esbuild.config.mjs",
